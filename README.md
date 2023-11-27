@@ -1,13 +1,9 @@
-
 <h1 align="center">Hi 👋, I'm Haider Mustafa</h1>
 <h3 align="center">A .NET developer with loads of experience in Software Quality Assurance</h3>
-
 <img align ="right" alt="Coding" width ="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haider581&label=Profile%20views&color=0e75b6&style=flat" alt="haider581" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haider581" alt="haider581" /></a> </p>
-
-- 🔭 I’m currently working on [a classified ad project.](https://www.wadisale.com)
+- 🔭 I’m currently working on [a classified ad project.](www.wadisale.com)
 
 - 🌱 I’m currently learning **MERN stack development**
 
