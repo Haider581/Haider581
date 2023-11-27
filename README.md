@@ -1,8 +1,8 @@
-[![MasterHead](https://i.imgur.com/Yr32yur.gif)]
+![MasterHead](https://i.imgur.com/Yr32yur.gif)
 <h1 align="center">Hi 👋, I'm Haider Mustafa</h1>
 <h3 align="center">A .NET developer with loads of experience in Software Quality Assurance</h3>
 
-<img align ="right" alt="Coding" width ="400" src="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">
+<img align ="right" alt="Coding" width ="400" src="https://giphy.com/embed/26tn33aiTi1jkl6H6">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haider581&label=Profile%20views&color=0e75b6&style=flat" alt="haider581" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haider581" alt="haider581" /></a> </p>
